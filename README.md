@@ -1,4 +1,4 @@
-# MyBB_Theme_Andreas09_Indigo
+# MyBB_Theme_Indigo
 
 Indigo v1.1
 » About:
